@@ -26,7 +26,7 @@ export const Intro = () => {
         I Build Stuff For The Web
         </div>
         <div className="md:text-sm text-[12px] text-tertiary-tertiary-2 w-full md:w-[50vw]">
-        I'm a full stack dev based in South Africa. I Have  a total <strong className='text-secondary-secondary-3'>2 Years</strong> experience in Web Development, 1 year of experience with <strong className='text-secondary-secondary-3'>ReactJS</strong> & <strong>Tailwind CSS</strong>, 6 months experience with <strong className='text-secondary-secondary-3'>NodeJS</strong>, ExpressJS and MongoDb. Let's Build Something Together.
+        I'm a dedicated full-stack developer from South Africa with over <strong className='text-secondary-secondary-3'>3 years</strong> of expertise in building modern web applications. I excel in <strong className='text-secondary-secondary-3'>ReactJS</strong> and <strong>Tailwind CSS</strong>, with practical experience in <strong className='text-secondary-secondary-3'>NodeJS</strong>, ExpressJS, and MongoDB. Let's team up to create something remarkable.
         </div>
         <div>
            <a href={CV} download> <button  className='text-secondary-secondary-2 text-[12px] md:text-sm hover:bg-secondary-secondary-2 hover:text-primary-dark-bg-1 transition-all duration-300 hover:cursor-pointer border border-secondary-secondary-2 py-[6px] px-4  md:py-[8px] md:px-6'>Dowload CV</button></a>

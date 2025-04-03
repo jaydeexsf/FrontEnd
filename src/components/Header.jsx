@@ -15,7 +15,7 @@ const Header = ({prof}) => {
       </div>
 
       <div className="text-xl md:hidden text-extrabold text-secondary-secondary-3">
-      Ful Stack Dev
+      Ful Stack Developer
       </div>
 
       <div className="social-icons flex gap-4">
@@ -28,7 +28,7 @@ const Header = ({prof}) => {
           <FaGithub size={20} />
         </a>
         <a 
-          href="https://linkedin.com/in/johannes-moloantoa-webdev" 
+          href="https://www.linkedin.com/in/johannes-moloantoa-502409332/" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="text-secondary-secondary-3 transition-transform transform hover:scale-110 hover:text-secondary-secondary-1 hover:shadow-lg"
