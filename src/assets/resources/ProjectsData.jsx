@@ -4,7 +4,7 @@ import OffCampusRooms from "../images/offcampusrooms.png"
 
 const ProjectsIn = [
   {
-    "name": "OffCampusRooms",
+    "name": "Off Campus Rooms",
     "description": "Developed OffCampusRooms, a platform helping students near the University of Limpopo find off-campus accommodation. Implemented a search and filtering system for users to easily find and connect with  landlords based on their preferences and budget.",
     "sourceCode": "https://github.com/jaydeexsf/OffCampusRooms",
     "demoLink": "https://off-campus-rooms.vercel.app",
