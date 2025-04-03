@@ -4,7 +4,7 @@ import Section from "../../components/Section";
 export const Contact = ()=> {
 
 
-  
+
         return (
            <div className="pt-[340px] md:pt-[80px]"> 
             <Section title="Say Hello To Me"/>

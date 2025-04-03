@@ -2,32 +2,54 @@ export const ExperienceDat = [
 
   {
     "title": "Full-Stack Developer",
-    "company": "OffCampusRooms",
-    "location": "Polokwane, South Africa",
-    "period": "Augaust 2024 - Present",
-    "description": "Developed OffCampusRooms, a platform helping students near the University of Limpopo find off-campus accommodation. Implemented a search and filtering system for users to easily find and connect with  landlords based on their preferences and budget.",
+    "company": "Heybassh",
+    "location": "Remote",
+    "period": "Nov 2024 - Present",
+    "description": "",
     "responsibilities": [
-      "Designed, developed and deployed the full-stack web application using ReactJS, Tailwind CSS, NodeJS, Express and MongoDB.",
-      "Used Goole API to get the distance from the landlords places to all the gates of the campus and to get and display the location of the landlords places and users can get directions form their location to the selected room.",
-      "Integrated real-time listings, allowing users to browse available rooms with updated details.",
-      "Built user authentication and role-based access for students and Admin(s).",
-      "Optimized the application for mobile and desktop, ensuring accessibility.", 
-      "Deployed the frontEnd on vercel and the BackEnd on render"
-    ],
+    "Architected and developed end-to-end solutions using modern full-stack technologies.",
+    "Optimized workflows by implementing efficient data-handling strategies, reducing processing time and improving system performance.",
+    "Designed RESTful APIs and integrated them with dynamic front-end applications for seamless user experiences.",
+    "Mentored developers during apprenticeships and conducted code reviews to maintain high-quality standards."
+   ],
     "tools": [
       "ReactJS",
-      "Firebase",
+      "HTML/CSS",
       "Tailwind CSS",
       "JavaScript",
-      "GitHub"
+      "Node.JS"
     ],
     "achievements": [
       "Successfully onboarded over 100 landlords, listing available rooms within the first month.",
       "Increased platform traffic by 30% through responsive design and user-friendly interfaces."
     ],
-    "link": "https://off-campus-rooms.vercel.app"
-
   },
+  {
+    "title": "Freelance Web Developer",
+    "company": "Independent Contractor",
+    "location": "Remote",
+    "period": "May 2023 – Oct 2024",
+    "description": "Designed and implemented custom web solutions for a diverse portfolio of clients, combining innovative design with robust technical expertise.",
+    "responsibilities": [
+      "Developed tailored websites and web applications using modern technologies like Node.js, React, and Firebase.",
+      "Built responsive, cross-browser compatible designs that elevated the user experience.",
+      "Optimized site performance, SEO, and accessibility, ensuring high standards and improved engagement.",
+      "Delivered ongoing support and maintenance, providing regular updates, troubleshooting, and performance enhancements."
+    ],
+    "tools": [
+      "ReactJS",
+      "HTML/CSS",
+      "Tailwind CSS",
+      "JavaScript",
+      "Node.js",
+      "Firebase"
+    ],
+    "achievements": [
+      "Successfully launched multiple projects that significantly boosted clients' online presence and user engagement.",
+      "Streamlined website performance, leading to higher conversion rates and enhanced customer satisfaction."
+    ]
+  }
+  
 
 ];
 

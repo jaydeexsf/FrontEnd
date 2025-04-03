@@ -37,13 +37,7 @@ const Experience = () => {
               className={`pt-0 ${selectedDate === index ? 'flex flex-col gap-4' : 'hidden'} text-white`}>
               <h1 className="title text-secondary-secondary-2 text-xl font">{data.title}</h1>
               <span className="company mt-[-13px] mb-2 text-[12px]">{data.company}</span>
-              <span className="what-i-did w-full lg:w-[500px] text-sm text-tertiary-tertiary-2">{data.description}</span>
-              
-              {/* Display responsibilities */}
-              <button onClick={makeResponsibiliteVisible} className='bg-secondary-secondary-2/70 max-w-[500px] rounded-full text-primary-dark-bg-1 text-xs px-1 py-2'>
-                {isShowingResponsibilities ? 'Hide ' : 'See '} Responsibilities
-              </button>
-              {isShowingResponsibilities && (
+              {true && (
                 <span className="what-i-did w-full lg:w-[500px] text-[13px] text-tertiary-tertiary-2">
                   {data.responsibilities.map((responsibility, index) => {
                     const highlightWords = ["MongoDB", "ReactJS", "authentication", "NodeJS", "Google API", "PDF", "parsing", "vercel", "render", "university", "prospectus", "JSON", "format"];
@@ -57,7 +51,7 @@ const Experience = () => {
                             {highlightWords.includes(part) ? (
                               <span className="text-red-500">{part}</span>
                             ) : (
-                              part
+                              part + " "
                             )}
                           </span>
                         ))}
