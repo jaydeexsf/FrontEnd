@@ -17,7 +17,10 @@ export const ExperienceDat = [
       "HTML/CSS",
       "Tailwind CSS",
       "JavaScript",
-      "Node.JS"
+      "Node.JS",
+      "Hubspot",
+      "SQL",
+      "MySQL"
     ],
     "achievements": [
       "Successfully onboarded over 100 landlords, listing available rooms within the first month.",
@@ -27,7 +30,7 @@ export const ExperienceDat = [
   {
     "title": "Freelance Web Developer",
     "company": "Independent Contractor",
-    "location": "Remote",
+    "location": "South Africa",
     "period": "May 2023 – Oct 2024",
     "description": "Designed and implemented custom web solutions for a diverse portfolio of clients, combining innovative design with robust technical expertise.",
     "responsibilities": [
@@ -42,7 +45,8 @@ export const ExperienceDat = [
       "Tailwind CSS",
       "JavaScript",
       "Node.js",
-      "Firebase"
+      "MongoDB",
+      "SCSS"
     ],
     "achievements": [
       "Successfully launched multiple projects that significantly boosted clients' online presence and user engagement.",
